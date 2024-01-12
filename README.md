@@ -14,4 +14,4 @@ Just don't…
 npm run dontmakemeangry
 ```
 
-Let's have a little fun with React and NextJS
+Let's have a little fun with React, Typescript and NextJS.
