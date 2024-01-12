@@ -1,5 +1,5 @@
 {
-  "name": "incredible.hu7k",
+  "name": "incredible-hu7k",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,5 +23,9 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.0.4"
-  }
+  },
+  "description": "Always on the run. Never staying in one place for too long.",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }
